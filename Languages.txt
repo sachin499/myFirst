@@ -3,5 +3,7 @@ python
 django
 js
 html5
-css3
-jquery
+
+Thank you
+
+
