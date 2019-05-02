@@ -4,10 +4,6 @@ django
 js
 html5
 
-Modules for Mock up
-SMS 
-Payment 
-Cell
 
 
 Tokens Added with blooming
