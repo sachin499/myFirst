@@ -4,6 +4,12 @@ django
 js
 html5
 
+Modules for Mock up
+SMS 
+Payment 
+Cell
+
+
 Thank you
 
 
