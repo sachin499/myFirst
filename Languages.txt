@@ -1,0 +1,7 @@
+List of languages going to be used in github projects
+python
+django
+js
+html5
+css3
+jquery
